@@ -1,0 +1,4 @@
+/home/anton/Downloads/lab2/ninja_build/CMakeFiles/rebuild_cache.dir
+/home/anton/Downloads/lab2/ninja_build/CMakeFiles/edit_cache.dir
+/home/anton/Downloads/lab2/ninja_build/CMakeFiles/lab2.dir
+/home/anton/Downloads/lab2/ninja_build/CMakeFiles/calculator.dir
